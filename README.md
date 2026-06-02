@@ -10,6 +10,7 @@
 - [Hw2 Part2](https://github.com/Perry0916/114-2-ProgramingLanguage/blob/main/「HW2_成績一本通_Part2_ipynb」的副本.ipynb)程式  
 - [Hw2 Part2](https://youtu.be/e79Odg69qK8?si=K1TLeSH5Xngp-eVP)影片
 - [Hw3](https://github.com/Perry-wang-ab741/114-2-ProgramingLanguage/blob/main/「HW3_待辦清單與番茄鐘紀錄_ipynb」的副本.ipynb)程式
-- [Hw3](https://youtu.be/hXYZvmOyoA0?si=tC1-JJ13sS6GmqXv)影片  
+- [Hw3](https://youtu.be/hXYZvmOyoA0?si=tC1-JJ13sS6GmqXv)影片
+- [Hw4](https://youtu.be/yoXFEM-DgyM)影片
 # 專題連結區  
 
